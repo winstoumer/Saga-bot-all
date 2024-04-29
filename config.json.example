@@ -1,5 +1,5 @@
 {
-  "telegram_token": "YOUR_TOKEN",
+  "telegram_token": "7149477449:AAGjvqRgeq4_SzOckb4kLzqSPC7wrgiN7xo",
   "chats": {
       "-CHAT_ID_1": {
         "debug_group": false,
